@@ -1,1 +1,1 @@
-# Prozav
+# Prozav - a social commerce company
